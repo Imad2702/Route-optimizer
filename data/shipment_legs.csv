@@ -1,0 +1,241 @@
+shipment_id,route_id,leg_index,from_node,to_node,transport_mode,cost_usd,transit_days,delay_probability,congestion_risk,geopolitical_risk,risk_score
+S001,A,1,Shanghai,Algeciras,Mainline Ocean Trunk,1195.38,24.2,0.32,0.7,0.52,0.61
+S001,A,2,Algeciras,Rotterdam,Regional Feeder / Intermodal,865.62,19.8,0.26,0.94,0.64,0.79
+S001,B,1,Shanghai,Bremerhaven,Mainline Ocean Trunk,1565.42,11.6,0.15,0.3,0.43,0.36
+S001,B,2,Bremerhaven,Rotterdam,Regional Feeder / Intermodal,1133.58,9.4,0.13,0.4,0.53,0.47
+S001,C,1,Shanghai,Piraeus,Mainline Ocean Trunk,4587.22,8.2,0.05,0.09,0.09,0.09
+S001,C,2,Piraeus,Rotterdam,Regional Feeder / Intermodal,3321.78,6.8,0.04,0.11,0.11,0.11
+S001,D,1,Shanghai,Las Palmas,Mainline Ocean Trunk,2626.82,6.6,0.09,0.32,0.31,0.32
+S001,D,2,Las Palmas,Rotterdam,Regional Feeder / Intermodal,1902.18,5.4,0.07,0.44,0.37,0.41
+S002,A,1,Mumbai,Tanjung Pelepas,Mainline Ocean Trunk,1716.8,16.0,0.23,0.71,0.62,0.67
+S002,A,2,Tanjung Pelepas,Dubai,Regional Feeder / Intermodal,1243.2,13.0,0.19,0.95,0.76,0.85
+S002,B,1,Mumbai,Malta,Mainline Ocean Trunk,2136.72,8.2,0.19,0.31,0.24,0.28
+S002,B,2,Malta,Dubai,Regional Feeder / Intermodal,1547.28,6.8,0.16,0.41,0.3,0.35
+S002,C,1,Mumbai,Piraeus,Mainline Ocean Trunk,4539.08,6.6,0.07,0.04,0.1,0.07
+S002,C,2,Piraeus,Dubai,Regional Feeder / Intermodal,3286.92,5.4,0.05,0.06,0.12,0.09
+S002,D,1,Mumbai,Las Palmas,Mainline Ocean Trunk,2378.0,7.2,0.15,0.18,0.47,0.32
+S002,D,2,Las Palmas,Dubai,Regional Feeder / Intermodal,1722.0,5.8,0.12,0.24,0.57,0.4
+S003,A,1,Shenzhen,Klang,Mainline Ocean Trunk,1028.34,22.0,0.28,0.54,0.7,0.62
+S003,A,2,Klang,Los Angeles,Regional Feeder / Intermodal,744.66,18.0,0.23,0.74,0.86,0.8
+S003,B,1,Shenzhen,Malta,Mainline Ocean Trunk,2574.62,14.3,0.24,0.52,0.41,0.46
+S003,B,2,Malta,Los Angeles,Regional Feeder / Intermodal,1864.38,11.7,0.19,0.7,0.51,0.6
+S003,C,1,Shenzhen,Port Klang,Mainline Ocean Trunk,2978.3,5.0,0.07,0.11,0.23,0.17
+S003,C,2,Port Klang,Los Angeles,Regional Feeder / Intermodal,2156.7,4.0,0.05,0.15,0.29,0.22
+S003,D,1,Shenzhen,Salalah,Mainline Ocean Trunk,3139.54,11.6,0.12,0.26,0.23,0.24
+S003,D,2,Salalah,Los Angeles,Regional Feeder / Intermodal,2273.46,9.4,0.1,0.34,0.29,0.32
+S004,A,1,Singapore,Colombo,Mainline Ocean Trunk,1728.4,22.0,0.25,0.47,0.82,0.65
+S004,A,2,Colombo,Hamburg,Regional Feeder / Intermodal,1251.6,18.0,0.2,0.63,1.0,0.81
+S004,B,1,Singapore,Malta,Mainline Ocean Trunk,2274.76,14.3,0.19,0.53,0.43,0.48
+S004,B,2,Malta,Hamburg,Regional Feeder / Intermodal,1647.24,11.7,0.16,0.71,0.53,0.62
+S004,C,1,Singapore,Gioia Tauro,Mainline Ocean Trunk,4401.62,7.2,0.06,0.06,0.12,0.09
+S004,C,2,Gioia Tauro,Hamburg,Regional Feeder / Intermodal,3187.38,5.8,0.05,0.08,0.14,0.11
+S004,D,1,Singapore,Kingston,Mainline Ocean Trunk,2797.92,12.1,0.2,0.31,0.22,0.27
+S004,D,2,Kingston,Hamburg,Regional Feeder / Intermodal,2026.08,9.9,0.17,0.43,0.26,0.34
+S005,A,1,Hong Kong,Port Said,Mainline Ocean Trunk,1531.78,19.8,0.32,0.65,0.68,0.67
+S005,A,2,Port Said,New York,Regional Feeder / Intermodal,1109.22,16.2,0.27,0.89,0.84,0.86
+S005,B,1,Hong Kong,Malta,Mainline Ocean Trunk,1479.0,8.8,0.12,0.44,0.32,0.38
+S005,B,2,Malta,New York,Regional Feeder / Intermodal,1071.0,7.2,0.09,0.6,0.4,0.5
+S005,C,1,Hong Kong,Colombo,Mainline Ocean Trunk,4478.76,4.4,0.07,0.24,0.1,0.17
+S005,C,2,Colombo,New York,Regional Feeder / Intermodal,3243.24,3.6,0.05,0.32,0.12,0.22
+S005,D,1,Hong Kong,Las Palmas,Mainline Ocean Trunk,2746.88,14.3,0.17,0.26,0.22,0.24
+S005,D,2,Las Palmas,New York,Regional Feeder / Intermodal,1989.12,11.7,0.14,0.34,0.26,0.3
+S006,A,1,Busan,Tanjung Pelepas,Mainline Ocean Trunk,1568.9,15.4,0.34,0.67,0.81,0.74
+S006,A,2,Tanjung Pelepas,Long Beach,Regional Feeder / Intermodal,1136.1,12.6,0.28,0.91,0.99,0.95
+S006,B,1,Busan,Bremerhaven,Mainline Ocean Trunk,1862.96,15.4,0.15,0.45,0.23,0.34
+S006,B,2,Bremerhaven,Long Beach,Regional Feeder / Intermodal,1349.04,12.6,0.12,0.61,0.28,0.45
+S006,C,1,Busan,Colombo,Mainline Ocean Trunk,4397.56,2.8,0.08,0.15,0.1,0.12
+S006,C,2,Colombo,Long Beach,Regional Feeder / Intermodal,3184.44,2.2,0.06,0.21,0.12,0.16
+S006,D,1,Busan,Las Palmas,Mainline Ocean Trunk,2130.34,8.2,0.1,0.24,0.36,0.3
+S006,D,2,Las Palmas,Long Beach,Regional Feeder / Intermodal,1542.66,6.8,0.09,0.32,0.44,0.38
+S007,A,1,Jakarta,Colombo,Mainline Ocean Trunk,1186.1,24.2,0.35,0.56,0.68,0.62
+S007,A,2,Colombo,Antwerp,Regional Feeder / Intermodal,858.9,19.8,0.29,0.76,0.83,0.79
+S007,B,1,Jakarta,Bremerhaven,Mainline Ocean Trunk,1621.68,16.0,0.15,0.54,0.35,0.45
+S007,B,2,Bremerhaven,Antwerp,Regional Feeder / Intermodal,1174.32,13.0,0.12,0.74,0.43,0.58
+S007,C,1,Jakarta,Piraeus,Mainline Ocean Trunk,3500.3,7.2,0.09,0.18,0.14,0.16
+S007,C,2,Piraeus,Antwerp,Regional Feeder / Intermodal,2534.7,5.8,0.08,0.24,0.18,0.21
+S007,D,1,Jakarta,Colon,Mainline Ocean Trunk,1857.16,9.4,0.12,0.41,0.32,0.36
+S007,D,2,Colon,Antwerp,Regional Feeder / Intermodal,1344.84,7.6,0.09,0.55,0.4,0.48
+S008,A,1,Chennai,Klang,Mainline Ocean Trunk,1421.0,19.2,0.23,0.79,0.59,0.69
+S008,A,2,Klang,Felixstowe,Regional Feeder / Intermodal,1029.0,15.8,0.19,1.07,0.73,0.9
+S008,B,1,Chennai,Malta,Mainline Ocean Trunk,2445.28,10.5,0.14,0.47,0.48,0.47
+S008,B,2,Malta,Felixstowe,Regional Feeder / Intermodal,1770.72,8.5,0.12,0.63,0.58,0.6
+S008,C,1,Chennai,Jebel Ali,Mainline Ocean Trunk,4022.3,3.9,0.09,0.14,0.25,0.2
+S008,C,2,Jebel Ali,Felixstowe,Regional Feeder / Intermodal,2912.7,3.1,0.08,0.2,0.31,0.26
+S008,D,1,Chennai,Las Palmas,Mainline Ocean Trunk,2719.62,12.7,0.11,0.33,0.4,0.36
+S008,D,2,Las Palmas,Felixstowe,Regional Feeder / Intermodal,1969.38,10.3,0.09,0.45,0.48,0.46
+S009,A,1,Guangzhou,Tanjung Pelepas,Mainline Ocean Trunk,1021.96,24.2,0.29,0.57,0.9,0.73
+S009,A,2,Tanjung Pelepas,Vancouver,Regional Feeder / Intermodal,740.04,19.8,0.24,0.77,1.1,0.94
+S009,B,1,Guangzhou,Suez,Mainline Ocean Trunk,2097.28,15.4,0.14,0.34,0.45,0.4
+S009,B,2,Suez,Vancouver,Regional Feeder / Intermodal,1518.72,12.6,0.11,0.46,0.55,0.51
+S009,C,1,Guangzhou,Piraeus,Mainline Ocean Trunk,4389.44,5.5,0.11,0.26,0.25,0.26
+S009,C,2,Piraeus,Vancouver,Regional Feeder / Intermodal,3178.56,4.5,0.09,0.36,0.31,0.33
+S009,D,1,Guangzhou,Dakar,Mainline Ocean Trunk,3042.68,11.6,0.08,0.2,0.39,0.3
+S009,D,2,Dakar,Vancouver,Regional Feeder / Intermodal,2203.32,9.4,0.07,0.28,0.47,0.38
+S010,A,1,Bangkok,Tanjung Pelepas,Mainline Ocean Trunk,1116.5,17.1,0.29,0.64,0.9,0.77
+S010,A,2,Tanjung Pelepas,Le Havre,Regional Feeder / Intermodal,808.5,13.9,0.23,0.86,1.1,0.98
+S010,B,1,Bangkok,Suez,Mainline Ocean Trunk,2275.92,9.9,0.15,0.48,0.43,0.45
+S010,B,2,Suez,Le Havre,Regional Feeder / Intermodal,1648.08,8.1,0.13,0.64,0.53,0.58
+S010,C,1,Bangkok,Gioia Tauro,Mainline Ocean Trunk,4043.76,6.6,0.04,0.14,0.11,0.12
+S010,C,2,Gioia Tauro,Le Havre,Regional Feeder / Intermodal,2928.24,5.4,0.03,0.18,0.13,0.15
+S010,D,1,Bangkok,Salalah,Mainline Ocean Trunk,2445.28,14.3,0.14,0.27,0.39,0.33
+S010,D,2,Salalah,Le Havre,Regional Feeder / Intermodal,1770.72,11.7,0.12,0.37,0.47,0.42
+S011,A,1,Shanghai,Colombo,Mainline Ocean Trunk,1039.36,21.5,0.26,0.48,0.74,0.61
+S011,A,2,Colombo,Rotterdam,Regional Feeder / Intermodal,752.64,17.5,0.21,0.64,0.9,0.77
+S011,B,1,Shanghai,Bremerhaven,Mainline Ocean Trunk,2603.62,12.1,0.15,0.52,0.46,0.49
+S011,B,2,Bremerhaven,Rotterdam,Regional Feeder / Intermodal,1885.38,9.9,0.12,0.7,0.56,0.63
+S011,C,1,Shanghai,Gioia Tauro,Mainline Ocean Trunk,4514.72,5.5,0.12,0.29,0.23,0.26
+S011,C,2,Gioia Tauro,Rotterdam,Regional Feeder / Intermodal,3269.28,4.5,0.09,0.39,0.29,0.34
+S011,D,1,Shanghai,Colon,Mainline Ocean Trunk,2297.96,13.8,0.13,0.22,0.35,0.28
+S011,D,2,Colon,Rotterdam,Regional Feeder / Intermodal,1664.04,11.2,0.1,0.3,0.43,0.36
+S012,A,1,Mumbai,Algeciras,Mainline Ocean Trunk,1679.1,14.3,0.25,0.72,0.61,0.67
+S012,A,2,Algeciras,Dubai,Regional Feeder / Intermodal,1215.9,11.7,0.2,0.98,0.75,0.86
+S012,B,1,Mumbai,Bremerhaven,Mainline Ocean Trunk,1792.2,10.5,0.23,0.3,0.45,0.38
+S012,B,2,Bremerhaven,Dubai,Regional Feeder / Intermodal,1297.8,8.5,0.18,0.4,0.55,0.48
+S012,C,1,Mumbai,Jebel Ali,Mainline Ocean Trunk,3415.62,5.5,0.05,0.2,0.06,0.13
+S012,C,2,Jebel Ali,Dubai,Regional Feeder / Intermodal,2473.38,4.5,0.04,0.26,0.08,0.17
+S012,D,1,Mumbai,Kingston,Mainline Ocean Trunk,2650.02,8.2,0.09,0.29,0.2,0.24
+S012,D,2,Kingston,Dubai,Regional Feeder / Intermodal,1918.98,6.8,0.08,0.39,0.24,0.32
+S013,A,1,Shenzhen,Colombo,Mainline Ocean Trunk,1163.48,17.6,0.23,0.69,0.47,0.58
+S013,A,2,Colombo,Los Angeles,Regional Feeder / Intermodal,842.52,14.4,0.19,0.93,0.57,0.75
+S013,B,1,Shenzhen,Dubai,Mainline Ocean Trunk,1629.8,16.0,0.23,0.51,0.31,0.41
+S013,B,2,Dubai,Los Angeles,Regional Feeder / Intermodal,1180.2,13.0,0.18,0.69,0.37,0.53
+S013,C,1,Shenzhen,Piraeus,Mainline Ocean Trunk,4330.86,5.0,0.04,0.18,0.22,0.2
+S013,C,2,Piraeus,Los Angeles,Regional Feeder / Intermodal,3136.14,4.0,0.03,0.24,0.26,0.25
+S013,D,1,Shenzhen,Kingston,Mainline Ocean Trunk,3139.54,10.5,0.2,0.23,0.31,0.27
+S013,D,2,Kingston,Los Angeles,Regional Feeder / Intermodal,2273.46,8.5,0.16,0.31,0.37,0.34
+S014,A,1,Singapore,Colombo,Mainline Ocean Trunk,1424.48,21.5,0.35,0.66,0.59,0.62
+S014,A,2,Colombo,Hamburg,Regional Feeder / Intermodal,1031.52,17.5,0.29,0.9,0.73,0.81
+S014,B,1,Singapore,Singapore,Mainline Ocean Trunk,1912.26,11.6,0.21,0.33,0.28,0.31
+S014,B,2,Singapore,Hamburg,Regional Feeder / Intermodal,1384.74,9.4,0.18,0.45,0.34,0.4
+S014,C,1,Singapore,Jebel Ali,Mainline Ocean Trunk,4097.7,2.8,0.12,0.15,0.1,0.12
+S014,C,2,Jebel Ali,Hamburg,Regional Feeder / Intermodal,2967.3,2.2,0.09,0.21,0.12,0.16
+S014,D,1,Singapore,Dakar,Mainline Ocean Trunk,2697.0,8.8,0.21,0.39,0.35,0.37
+S014,D,2,Dakar,Hamburg,Regional Feeder / Intermodal,1953.0,7.2,0.18,0.53,0.43,0.48
+S015,A,1,Hong Kong,Tanjung Pelepas,Mainline Ocean Trunk,1234.82,16.0,0.27,0.76,0.46,0.61
+S015,A,2,Tanjung Pelepas,New York,Regional Feeder / Intermodal,894.18,13.0,0.22,1.02,0.56,0.79
+S015,B,1,Hong Kong,Dubai,Mainline Ocean Trunk,1503.36,8.2,0.23,0.47,0.38,0.42
+S015,B,2,Dubai,New York,Regional Feeder / Intermodal,1088.64,6.8,0.18,0.63,0.46,0.55
+S015,C,1,Hong Kong,Port Klang,Mainline Ocean Trunk,4228.2,8.2,0.06,0.16,0.19,0.17
+S015,C,2,Port Klang,New York,Regional Feeder / Intermodal,3061.8,6.8,0.05,0.22,0.23,0.23
+S015,D,1,Hong Kong,Colon,Mainline Ocean Trunk,2632.62,12.1,0.09,0.28,0.38,0.33
+S015,D,2,Colon,New York,Regional Feeder / Intermodal,1906.38,9.9,0.07,0.38,0.46,0.42
+S016,A,1,Busan,Port Said,Mainline Ocean Trunk,1305.58,19.2,0.31,0.71,0.87,0.79
+S016,A,2,Port Said,Long Beach,Regional Feeder / Intermodal,945.42,15.8,0.26,0.95,1.07,1.01
+S016,B,1,Busan,Malta,Mainline Ocean Trunk,1480.74,12.7,0.24,0.42,0.35,0.39
+S016,B,2,Malta,Long Beach,Regional Feeder / Intermodal,1072.26,10.3,0.2,0.57,0.43,0.5
+S016,C,1,Busan,Port Klang,Mainline Ocean Trunk,3123.3,8.2,0.1,0.2,0.23,0.22
+S016,C,2,Port Klang,Long Beach,Regional Feeder / Intermodal,2261.7,6.8,0.09,0.28,0.29,0.29
+S016,D,1,Busan,Colon,Mainline Ocean Trunk,2039.28,8.8,0.11,0.28,0.19,0.24
+S016,D,2,Colon,Long Beach,Regional Feeder / Intermodal,1476.72,7.2,0.09,0.38,0.23,0.3
+S017,A,1,Jakarta,Port Said,Mainline Ocean Trunk,1463.92,14.3,0.26,0.79,0.46,0.62
+S017,A,2,Port Said,Antwerp,Regional Feeder / Intermodal,1060.08,11.7,0.22,1.07,0.56,0.82
+S017,B,1,Jakarta,Malta,Mainline Ocean Trunk,1752.18,12.1,0.2,0.36,0.52,0.44
+S017,B,2,Malta,Antwerp,Regional Feeder / Intermodal,1268.82,9.9,0.17,0.48,0.64,0.56
+S017,C,1,Jakarta,Colombo,Mainline Ocean Trunk,3626.74,9.4,0.08,0.15,0.17,0.16
+S017,C,2,Colombo,Antwerp,Regional Feeder / Intermodal,2626.26,7.6,0.06,0.21,0.21,0.21
+S017,D,1,Jakarta,Dakar,Mainline Ocean Trunk,3176.08,9.9,0.13,0.4,0.29,0.34
+S017,D,2,Dakar,Antwerp,Regional Feeder / Intermodal,2299.92,8.1,0.11,0.54,0.35,0.45
+S018,A,1,Chennai,Colombo,Mainline Ocean Trunk,1077.06,20.9,0.32,0.56,0.62,0.59
+S018,A,2,Colombo,Felixstowe,Regional Feeder / Intermodal,779.94,17.1,0.26,0.76,0.76,0.76
+S018,B,1,Chennai,Malta,Mainline Ocean Trunk,2035.8,14.9,0.15,0.52,0.35,0.43
+S018,B,2,Malta,Felixstowe,Regional Feeder / Intermodal,1474.2,12.1,0.13,0.7,0.43,0.56
+S018,C,1,Chennai,Piraeus,Mainline Ocean Trunk,4567.5,8.8,0.06,0.29,0.2,0.24
+S018,C,2,Piraeus,Felixstowe,Regional Feeder / Intermodal,3307.5,7.2,0.05,0.39,0.24,0.32
+S018,D,1,Chennai,Kingston,Mainline Ocean Trunk,2571.14,12.1,0.14,0.26,0.29,0.28
+S018,D,2,Kingston,Felixstowe,Regional Feeder / Intermodal,1861.86,9.9,0.12,0.34,0.35,0.34
+S019,A,1,Guangzhou,Port Said,Mainline Ocean Trunk,1055.02,23.7,0.33,0.51,0.87,0.69
+S019,A,2,Port Said,Vancouver,Regional Feeder / Intermodal,763.98,19.3,0.27,0.69,1.07,0.88
+S019,B,1,Guangzhou,Dubai,Mainline Ocean Trunk,1516.7,12.7,0.17,0.52,0.33,0.43
+S019,B,2,Dubai,Vancouver,Regional Feeder / Intermodal,1098.3,10.3,0.14,0.7,0.41,0.55
+S019,C,1,Guangzhou,Gioia Tauro,Mainline Ocean Trunk,4584.9,7.2,0.1,0.26,0.23,0.24
+S019,C,2,Gioia Tauro,Vancouver,Regional Feeder / Intermodal,3320.1,5.8,0.09,0.36,0.29,0.32
+S019,D,1,Guangzhou,Kingston,Mainline Ocean Trunk,2062.48,9.9,0.2,0.21,0.34,0.28
+S019,D,2,Kingston,Vancouver,Regional Feeder / Intermodal,1493.52,8.1,0.17,0.29,0.42,0.35
+S020,A,1,Bangkok,Klang,Mainline Ocean Trunk,1375.18,23.1,0.34,0.56,0.85,0.71
+S020,A,2,Klang,Le Havre,Regional Feeder / Intermodal,995.82,18.9,0.28,0.76,1.04,0.9
+S020,B,1,Bangkok,Suez,Mainline Ocean Trunk,2323.48,11.0,0.12,0.48,0.41,0.44
+S020,B,2,Suez,Le Havre,Regional Feeder / Intermodal,1682.52,9.0,0.1,0.66,0.5,0.58
+S020,C,1,Bangkok,Port Klang,Mainline Ocean Trunk,3332.68,5.0,0.07,0.11,0.14,0.12
+S020,C,2,Port Klang,Le Havre,Regional Feeder / Intermodal,2413.32,4.0,0.05,0.15,0.17,0.16
+S020,D,1,Bangkok,Las Palmas,Mainline Ocean Trunk,2814.16,13.2,0.2,0.39,0.4,0.4
+S020,D,2,Las Palmas,Le Havre,Regional Feeder / Intermodal,2037.84,10.8,0.16,0.53,0.48,0.51
+S021,A,1,Shanghai,Port Said,Mainline Ocean Trunk,1706.94,17.6,0.26,0.8,0.55,0.68
+S021,A,2,Port Said,Rotterdam,Regional Feeder / Intermodal,1236.06,14.4,0.21,1.08,0.67,0.88
+S021,B,1,Shanghai,Suez,Mainline Ocean Trunk,1463.92,16.0,0.12,0.52,0.39,0.46
+S021,B,2,Suez,Rotterdam,Regional Feeder / Intermodal,1060.08,13.0,0.09,0.7,0.47,0.58
+S021,C,1,Shanghai,Jebel Ali,Mainline Ocean Trunk,4499.06,4.4,0.09,0.06,0.08,0.07
+S021,C,2,Jebel Ali,Rotterdam,Regional Feeder / Intermodal,3257.94,3.6,0.08,0.08,0.1,0.09
+S021,D,1,Shanghai,Salalah,Mainline Ocean Trunk,2748.62,10.5,0.17,0.34,0.47,0.41
+S021,D,2,Salalah,Rotterdam,Regional Feeder / Intermodal,1990.38,8.5,0.14,0.46,0.57,0.52
+S022,A,1,Mumbai,Klang,Mainline Ocean Trunk,1665.76,24.2,0.23,0.62,0.5,0.56
+S022,A,2,Klang,Dubai,Regional Feeder / Intermodal,1206.24,19.8,0.18,0.84,0.61,0.72
+S022,B,1,Mumbai,Malta,Mainline Ocean Trunk,1771.32,9.4,0.18,0.36,0.41,0.39
+S022,B,2,Malta,Dubai,Regional Feeder / Intermodal,1282.68,7.6,0.14,0.48,0.5,0.49
+S022,C,1,Mumbai,Gioia Tauro,Mainline Ocean Trunk,3526.98,4.4,0.07,0.05,0.11,0.08
+S022,C,2,Gioia Tauro,Dubai,Regional Feeder / Intermodal,2554.02,3.6,0.06,0.07,0.13,0.1
+S022,D,1,Mumbai,Colon,Mainline Ocean Trunk,2919.72,12.1,0.1,0.44,0.44,0.44
+S022,D,2,Colon,Dubai,Regional Feeder / Intermodal,2114.28,9.9,0.09,0.6,0.54,0.57
+S023,A,1,Shenzhen,Algeciras,Mainline Ocean Trunk,1231.92,19.8,0.35,0.5,0.85,0.68
+S023,A,2,Algeciras,Los Angeles,Regional Feeder / Intermodal,892.08,16.2,0.28,0.68,1.03,0.85
+S023,B,1,Shenzhen,Singapore,Mainline Ocean Trunk,1502.2,8.2,0.16,0.49,0.54,0.52
+S023,B,2,Singapore,Los Angeles,Regional Feeder / Intermodal,1087.8,6.8,0.13,0.67,0.66,0.67
+S023,C,1,Shenzhen,Jebel Ali,Mainline Ocean Trunk,3555.4,7.7,0.07,0.26,0.17,0.22
+S023,C,2,Jebel Ali,Los Angeles,Regional Feeder / Intermodal,2574.6,6.3,0.05,0.34,0.21,0.28
+S023,D,1,Shenzhen,Salalah,Mainline Ocean Trunk,2419.18,9.9,0.12,0.19,0.45,0.32
+S023,D,2,Salalah,Los Angeles,Regional Feeder / Intermodal,1751.82,8.1,0.1,0.25,0.55,0.4
+S024,A,1,Singapore,Port Said,Mainline Ocean Trunk,1334.58,21.5,0.35,0.69,0.77,0.73
+S024,A,2,Port Said,Hamburg,Regional Feeder / Intermodal,966.42,17.5,0.28,0.93,0.95,0.94
+S024,B,1,Singapore,Bremerhaven,Mainline Ocean Trunk,2435.42,9.9,0.17,0.3,0.52,0.41
+S024,B,2,Bremerhaven,Hamburg,Regional Feeder / Intermodal,1763.58,8.1,0.14,0.4,0.64,0.52
+S024,C,1,Singapore,Port Klang,Mainline Ocean Trunk,3260.18,8.8,0.1,0.05,0.11,0.08
+S024,C,2,Port Klang,Hamburg,Regional Feeder / Intermodal,2360.82,7.2,0.08,0.07,0.13,0.1
+S024,D,1,Singapore,Las Palmas,Mainline Ocean Trunk,2462.1,10.5,0.2,0.26,0.44,0.35
+S024,D,2,Las Palmas,Hamburg,Regional Feeder / Intermodal,1782.9,8.5,0.16,0.36,0.54,0.45
+S025,A,1,Hong Kong,Klang,Mainline Ocean Trunk,1357.78,23.1,0.28,0.52,0.46,0.49
+S025,A,2,Klang,New York,Regional Feeder / Intermodal,983.22,18.9,0.23,0.7,0.56,0.63
+S025,B,1,Hong Kong,Dubai,Mainline Ocean Trunk,2169.2,13.8,0.14,0.3,0.23,0.27
+S025,B,2,Dubai,New York,Regional Feeder / Intermodal,1570.8,11.2,0.11,0.4,0.29,0.34
+S025,C,1,Hong Kong,Jebel Ali,Mainline Ocean Trunk,3926.02,5.5,0.07,0.27,0.13,0.2
+S025,C,2,Jebel Ali,New York,Regional Feeder / Intermodal,2842.98,4.5,0.05,0.37,0.15,0.26
+S025,D,1,Hong Kong,Las Palmas,Mainline Ocean Trunk,2876.22,9.9,0.17,0.42,0.48,0.45
+S025,D,2,Las Palmas,New York,Regional Feeder / Intermodal,2082.78,8.1,0.14,0.57,0.58,0.57
+S026,A,1,Busan,Klang,Mainline Ocean Trunk,1269.62,22.6,0.32,0.49,0.47,0.48
+S026,A,2,Klang,Long Beach,Regional Feeder / Intermodal,919.38,18.4,0.27,0.67,0.57,0.62
+S026,B,1,Busan,Suez,Mainline Ocean Trunk,1852.52,9.9,0.19,0.36,0.4,0.38
+S026,B,2,Suez,Long Beach,Regional Feeder / Intermodal,1341.48,8.1,0.15,0.48,0.48,0.48
+S026,C,1,Busan,Colombo,Mainline Ocean Trunk,3141.28,7.2,0.04,0.13,0.24,0.18
+S026,C,2,Colombo,Long Beach,Regional Feeder / Intermodal,2274.72,5.8,0.04,0.17,0.3,0.23
+S026,D,1,Busan,Colon,Mainline Ocean Trunk,2487.04,14.9,0.17,0.24,0.44,0.34
+S026,D,2,Colon,Long Beach,Regional Feeder / Intermodal,1800.96,12.1,0.14,0.32,0.54,0.43
+S027,A,1,Jakarta,Port Said,Mainline Ocean Trunk,1111.86,15.4,0.23,0.51,0.66,0.58
+S027,A,2,Port Said,Antwerp,Regional Feeder / Intermodal,805.14,12.6,0.19,0.69,0.8,0.74
+S027,B,1,Jakarta,Singapore,Mainline Ocean Trunk,2487.04,8.8,0.15,0.35,0.25,0.3
+S027,B,2,Singapore,Antwerp,Regional Feeder / Intermodal,1800.96,7.2,0.13,0.47,0.31,0.39
+S027,C,1,Jakarta,Piraeus,Mainline Ocean Trunk,4096.54,6.1,0.04,0.14,0.05,0.1
+S027,C,2,Piraeus,Antwerp,Regional Feeder / Intermodal,2966.46,4.9,0.04,0.18,0.06,0.12
+S027,D,1,Jakarta,Colon,Mainline Ocean Trunk,2908.7,12.7,0.11,0.23,0.3,0.27
+S027,D,2,Colon,Antwerp,Regional Feeder / Intermodal,2106.3,10.3,0.09,0.31,0.36,0.33
+S028,A,1,Chennai,Algeciras,Mainline Ocean Trunk,1530.62,19.2,0.32,0.49,0.51,0.5
+S028,A,2,Algeciras,Felixstowe,Regional Feeder / Intermodal,1108.38,15.8,0.26,0.67,0.63,0.65
+S028,B,1,Chennai,Dubai,Mainline Ocean Trunk,2277.08,15.4,0.18,0.42,0.26,0.34
+S028,B,2,Dubai,Felixstowe,Regional Feeder / Intermodal,1648.92,12.6,0.15,0.56,0.32,0.44
+S028,C,1,Chennai,Jebel Ali,Mainline Ocean Trunk,3515.96,5.5,0.04,0.23,0.09,0.16
+S028,C,2,Jebel Ali,Felixstowe,Regional Feeder / Intermodal,2546.04,4.5,0.03,0.31,0.11,0.21
+S028,D,1,Chennai,Salalah,Mainline Ocean Trunk,2958.58,7.2,0.15,0.24,0.29,0.27
+S028,D,2,Salalah,Felixstowe,Regional Feeder / Intermodal,2142.42,5.8,0.13,0.32,0.35,0.33
+S029,A,1,Guangzhou,Port Said,Mainline Ocean Trunk,1460.44,22.0,0.29,0.5,0.69,0.59
+S029,A,2,Port Said,Vancouver,Regional Feeder / Intermodal,1057.56,18.0,0.23,0.68,0.85,0.77
+S029,B,1,Guangzhou,Malta,Mainline Ocean Trunk,2096.7,12.7,0.19,0.37,0.33,0.35
+S029,B,2,Malta,Vancouver,Regional Feeder / Intermodal,1518.3,10.3,0.15,0.49,0.41,0.45
+S029,C,1,Guangzhou,Jebel Ali,Mainline Ocean Trunk,4023.46,6.6,0.06,0.3,0.18,0.24
+S029,C,2,Jebel Ali,Vancouver,Regional Feeder / Intermodal,2913.54,5.4,0.05,0.4,0.22,0.31
+S029,D,1,Guangzhou,Salalah,Mainline Ocean Trunk,1750.44,8.2,0.13,0.31,0.45,0.38
+S029,D,2,Salalah,Vancouver,Regional Feeder / Intermodal,1267.56,6.8,0.11,0.43,0.55,0.49
+S030,A,1,Bangkok,Port Said,Mainline Ocean Trunk,939.6,19.2,0.28,0.84,0.5,0.67
+S030,A,2,Port Said,Le Havre,Regional Feeder / Intermodal,680.4,15.8,0.23,1.14,0.62,0.88
+S030,B,1,Bangkok,Suez,Mainline Ocean Trunk,2117.58,15.4,0.11,0.54,0.38,0.46
+S030,B,2,Suez,Le Havre,Regional Feeder / Intermodal,1533.42,12.6,0.09,0.74,0.46,0.6
+S030,C,1,Bangkok,Gioia Tauro,Mainline Ocean Trunk,4327.96,7.7,0.08,0.16,0.23,0.2
+S030,C,2,Gioia Tauro,Le Havre,Regional Feeder / Intermodal,3134.04,6.3,0.06,0.22,0.29,0.26
+S030,D,1,Bangkok,Salalah,Mainline Ocean Trunk,2010.86,9.4,0.14,0.32,0.25,0.29
+S030,D,2,Salalah,Le Havre,Regional Feeder / Intermodal,1456.14,7.6,0.12,0.44,0.31,0.38

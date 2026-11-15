@@ -1,0 +1,121 @@
+shipment_id,origin,destination,route_id,via,cost_usd,transit_days,delay_probability,congestion_risk,geopolitical_risk,risk_score
+S001,Shanghai,Rotterdam,A,Algeciras,2061,44,0.58,0.82,0.58,0.7
+S001,Shanghai,Rotterdam,B,Bremerhaven,2699,21,0.28,0.35,0.48,0.41
+S001,Shanghai,Rotterdam,C,Piraeus,7909,15,0.09,0.1,0.1,0.1
+S001,Shanghai,Rotterdam,D,Las Palmas,4529,12,0.16,0.38,0.34,0.36
+S002,Mumbai,Dubai,A,Tanjung Pelepas,2960,29,0.42,0.83,0.69,0.76
+S002,Mumbai,Dubai,B,Malta,3684,15,0.35,0.36,0.27,0.32
+S002,Mumbai,Dubai,C,Piraeus,7826,12,0.12,0.05,0.11,0.08
+S002,Mumbai,Dubai,D,Las Palmas,4100,13,0.27,0.21,0.52,0.36
+S003,Shenzhen,Los Angeles,A,Klang,1773,40,0.51,0.64,0.78,0.71
+S003,Shenzhen,Los Angeles,B,Malta,4439,26,0.43,0.61,0.46,0.54
+S003,Shenzhen,Los Angeles,C,Port Klang,5135,9,0.12,0.13,0.26,0.2
+S003,Shenzhen,Los Angeles,D,Salalah,5413,21,0.22,0.3,0.26,0.28
+S004,Singapore,Hamburg,A,Colombo,2980,40,0.45,0.55,0.91,0.73
+S004,Singapore,Hamburg,B,Malta,3922,26,0.35,0.62,0.48,0.55
+S004,Singapore,Hamburg,C,Gioia Tauro,7589,13,0.11,0.07,0.13,0.1
+S004,Singapore,Hamburg,D,Kingston,4824,22,0.37,0.37,0.24,0.3
+S005,Hong Kong,New York,A,Port Said,2641,36,0.59,0.77,0.76,0.77
+S005,Hong Kong,New York,B,Malta,2550,16,0.21,0.52,0.36,0.44
+S005,Hong Kong,New York,C,Colombo,7722,8,0.12,0.28,0.11,0.2
+S005,Hong Kong,New York,D,Las Palmas,4736,26,0.31,0.3,0.24,0.27
+S006,Busan,Long Beach,A,Tanjung Pelepas,2705,28,0.62,0.79,0.9,0.84
+S006,Busan,Long Beach,B,Bremerhaven,3212,28,0.27,0.53,0.25,0.39
+S006,Busan,Long Beach,C,Colombo,7582,5,0.14,0.18,0.11,0.14
+S006,Busan,Long Beach,D,Las Palmas,3673,15,0.19,0.28,0.4,0.34
+S007,Jakarta,Antwerp,A,Colombo,2045,44,0.64,0.66,0.75,0.71
+S007,Jakarta,Antwerp,B,Bremerhaven,2796,29,0.27,0.64,0.39,0.52
+S007,Jakarta,Antwerp,C,Piraeus,6035,13,0.17,0.21,0.16,0.18
+S007,Jakarta,Antwerp,D,Colon,3202,17,0.21,0.48,0.36,0.42
+S008,Chennai,Felixstowe,A,Klang,2450,35,0.42,0.93,0.66,0.8
+S008,Chennai,Felixstowe,B,Malta,4216,19,0.26,0.55,0.53,0.54
+S008,Chennai,Felixstowe,C,Jebel Ali,6935,7,0.17,0.17,0.28,0.23
+S008,Chennai,Felixstowe,D,Las Palmas,4689,23,0.2,0.39,0.44,0.42
+S009,Guangzhou,Vancouver,A,Tanjung Pelepas,1762,44,0.53,0.67,1.0,0.83
+S009,Guangzhou,Vancouver,B,Suez,3616,28,0.25,0.4,0.5,0.45
+S009,Guangzhou,Vancouver,C,Piraeus,7568,10,0.2,0.31,0.28,0.3
+S009,Guangzhou,Vancouver,D,Dakar,5246,21,0.15,0.24,0.43,0.33
+S010,Bangkok,Le Havre,A,Tanjung Pelepas,1925,31,0.52,0.75,1.0,0.88
+S010,Bangkok,Le Havre,B,Suez,3924,18,0.28,0.56,0.48,0.52
+S010,Bangkok,Le Havre,C,Gioia Tauro,6972,12,0.07,0.16,0.12,0.14
+S010,Bangkok,Le Havre,D,Salalah,4216,26,0.26,0.32,0.43,0.38
+S011,Shanghai,Rotterdam,A,Colombo,1792,39,0.47,0.56,0.82,0.69
+S011,Shanghai,Rotterdam,B,Bremerhaven,4489,22,0.27,0.61,0.51,0.56
+S011,Shanghai,Rotterdam,C,Gioia Tauro,7784,10,0.21,0.34,0.26,0.3
+S011,Shanghai,Rotterdam,D,Colon,3962,25,0.23,0.26,0.39,0.33
+S012,Mumbai,Dubai,A,Algeciras,2895,26,0.45,0.85,0.68,0.77
+S012,Mumbai,Dubai,B,Bremerhaven,3090,19,0.41,0.35,0.5,0.42
+S012,Mumbai,Dubai,C,Jebel Ali,5889,10,0.09,0.23,0.07,0.15
+S012,Mumbai,Dubai,D,Kingston,4569,15,0.17,0.34,0.22,0.28
+S013,Shenzhen,Los Angeles,A,Colombo,2006,32,0.42,0.81,0.52,0.67
+S013,Shenzhen,Los Angeles,B,Dubai,2810,29,0.41,0.6,0.34,0.47
+S013,Shenzhen,Los Angeles,C,Piraeus,7467,9,0.07,0.21,0.24,0.22
+S013,Shenzhen,Los Angeles,D,Kingston,5413,19,0.36,0.27,0.34,0.31
+S014,Singapore,Hamburg,A,Colombo,2456,39,0.64,0.78,0.66,0.72
+S014,Singapore,Hamburg,B,Singapore,3297,21,0.39,0.39,0.31,0.35
+S014,Singapore,Hamburg,C,Jebel Ali,7065,5,0.21,0.18,0.11,0.14
+S014,Singapore,Hamburg,D,Dakar,4650,16,0.39,0.46,0.39,0.43
+S015,Hong Kong,New York,A,Tanjung Pelepas,2129,29,0.49,0.89,0.51,0.7
+S015,Hong Kong,New York,B,Dubai,2592,15,0.41,0.55,0.42,0.48
+S015,Hong Kong,New York,C,Port Klang,7290,15,0.11,0.19,0.21,0.2
+S015,Hong Kong,New York,D,Colon,4539,22,0.16,0.33,0.42,0.38
+S016,Busan,Long Beach,A,Port Said,2251,35,0.57,0.83,0.97,0.9
+S016,Busan,Long Beach,B,Malta,2553,23,0.44,0.5,0.39,0.45
+S016,Busan,Long Beach,C,Port Klang,5385,15,0.19,0.24,0.26,0.25
+S016,Busan,Long Beach,D,Colon,3516,16,0.2,0.33,0.21,0.27
+S017,Jakarta,Antwerp,A,Port Said,2524,26,0.48,0.93,0.51,0.72
+S017,Jakarta,Antwerp,B,Malta,3021,22,0.37,0.42,0.58,0.5
+S017,Jakarta,Antwerp,C,Colombo,6253,17,0.14,0.18,0.19,0.18
+S017,Jakarta,Antwerp,D,Dakar,5476,18,0.24,0.47,0.32,0.4
+S018,Chennai,Felixstowe,A,Colombo,1857,38,0.58,0.66,0.69,0.68
+S018,Chennai,Felixstowe,B,Malta,3510,27,0.28,0.61,0.39,0.5
+S018,Chennai,Felixstowe,C,Piraeus,7875,16,0.11,0.34,0.22,0.28
+S018,Chennai,Felixstowe,D,Kingston,4433,22,0.26,0.3,0.32,0.31
+S019,Guangzhou,Vancouver,A,Port Said,1819,43,0.6,0.6,0.97,0.78
+S019,Guangzhou,Vancouver,B,Dubai,2615,23,0.31,0.61,0.37,0.49
+S019,Guangzhou,Vancouver,C,Gioia Tauro,7905,13,0.19,0.31,0.26,0.29
+S019,Guangzhou,Vancouver,D,Kingston,3556,18,0.37,0.25,0.38,0.32
+S020,Bangkok,Le Havre,A,Klang,2371,42,0.62,0.66,0.95,0.8
+S020,Bangkok,Le Havre,B,Suez,4006,20,0.22,0.57,0.45,0.51
+S020,Bangkok,Le Havre,C,Port Klang,5746,9,0.12,0.13,0.15,0.14
+S020,Bangkok,Le Havre,D,Las Palmas,4852,24,0.36,0.46,0.44,0.45
+S021,Shanghai,Rotterdam,A,Port Said,2943,32,0.47,0.94,0.61,0.77
+S021,Shanghai,Rotterdam,B,Suez,2524,29,0.21,0.61,0.43,0.52
+S021,Shanghai,Rotterdam,C,Jebel Ali,7757,8,0.17,0.07,0.09,0.08
+S021,Shanghai,Rotterdam,D,Salalah,4739,19,0.31,0.4,0.52,0.46
+S022,Mumbai,Dubai,A,Klang,2872,44,0.41,0.73,0.55,0.64
+S022,Mumbai,Dubai,B,Malta,3054,17,0.32,0.42,0.45,0.43
+S022,Mumbai,Dubai,C,Gioia Tauro,6081,8,0.13,0.06,0.12,0.09
+S022,Mumbai,Dubai,D,Colon,5034,22,0.19,0.52,0.49,0.51
+S023,Shenzhen,Los Angeles,A,Algeciras,2124,36,0.63,0.59,0.94,0.76
+S023,Shenzhen,Los Angeles,B,Singapore,2590,15,0.29,0.58,0.6,0.59
+S023,Shenzhen,Los Angeles,C,Jebel Ali,6130,14,0.12,0.3,0.19,0.24
+S023,Shenzhen,Los Angeles,D,Salalah,4171,18,0.22,0.22,0.5,0.36
+S024,Singapore,Hamburg,A,Port Said,2301,39,0.63,0.81,0.86,0.83
+S024,Singapore,Hamburg,B,Bremerhaven,4199,18,0.31,0.35,0.58,0.46
+S024,Singapore,Hamburg,C,Port Klang,5621,16,0.18,0.06,0.12,0.09
+S024,Singapore,Hamburg,D,Las Palmas,4245,19,0.36,0.31,0.49,0.4
+S025,Hong Kong,New York,A,Klang,2341,42,0.5,0.61,0.51,0.56
+S025,Hong Kong,New York,B,Dubai,3740,25,0.25,0.35,0.26,0.3
+S025,Hong Kong,New York,C,Jebel Ali,6769,10,0.12,0.32,0.14,0.23
+S025,Hong Kong,New York,D,Las Palmas,4959,18,0.31,0.5,0.53,0.52
+S026,Busan,Long Beach,A,Klang,2189,41,0.59,0.58,0.52,0.55
+S026,Busan,Long Beach,B,Suez,3194,18,0.34,0.42,0.44,0.43
+S026,Busan,Long Beach,C,Colombo,5416,13,0.08,0.15,0.27,0.21
+S026,Busan,Long Beach,D,Colon,4288,27,0.3,0.28,0.49,0.39
+S027,Jakarta,Antwerp,A,Port Said,1917,28,0.42,0.6,0.73,0.67
+S027,Jakarta,Antwerp,B,Singapore,4288,16,0.28,0.41,0.28,0.34
+S027,Jakarta,Antwerp,C,Piraeus,7063,11,0.08,0.16,0.05,0.11
+S027,Jakarta,Antwerp,D,Colon,5015,23,0.2,0.27,0.33,0.3
+S028,Chennai,Felixstowe,A,Algeciras,2639,35,0.58,0.58,0.57,0.57
+S028,Chennai,Felixstowe,B,Dubai,3926,28,0.33,0.49,0.29,0.39
+S028,Chennai,Felixstowe,C,Jebel Ali,6062,10,0.07,0.27,0.1,0.18
+S028,Chennai,Felixstowe,D,Salalah,5101,13,0.28,0.28,0.32,0.3
+S029,Guangzhou,Vancouver,A,Port Said,2518,40,0.52,0.59,0.77,0.68
+S029,Guangzhou,Vancouver,B,Malta,3615,23,0.34,0.43,0.37,0.4
+S029,Guangzhou,Vancouver,C,Jebel Ali,6937,12,0.11,0.35,0.2,0.28
+S029,Guangzhou,Vancouver,D,Salalah,3018,15,0.24,0.37,0.5,0.43
+S030,Bangkok,Le Havre,A,Port Said,1620,35,0.5,0.99,0.56,0.78
+S030,Bangkok,Le Havre,B,Suez,3651,28,0.2,0.64,0.42,0.53
+S030,Bangkok,Le Havre,C,Gioia Tauro,7462,14,0.14,0.19,0.26,0.23
+S030,Bangkok,Le Havre,D,Salalah,3467,17,0.26,0.38,0.28,0.33
